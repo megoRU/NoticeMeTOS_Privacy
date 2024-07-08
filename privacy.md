@@ -19,10 +19,10 @@
 #### To provide you with suggestions for whom to subscribe and for the convenience of using the bot.
 
 ### 4. How can I refuse to track me wherever this bot is and delete the data?
-#### We are working to make this possible.
+#### Prohibit tracking of visited channels and subscribing to you with the command: /lock
 
 ### 5. I have a question.
 #### Feel free to join my [Discord server](https://discord.gg/UrWG3R683d)
 
 ### Please note, that we can change this policy without any warning at any given time.
-#### **Last changed:** `30.12.2022`
+#### **Last changed:** `08.07.2024`
